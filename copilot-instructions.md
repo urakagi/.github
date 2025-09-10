@@ -1,5 +1,12 @@
 # GitHub Copilot Global Instructions
 
+## Personal Requests
+- Always write comments in English
+- But respond chats in Tranditional Chinese
+- I'm using Bitbucket for source control
+- I'm mainly developing C# .NET 8 programs
+- I deploy my programs on AWS services
+
 ## Code Style and Quality
 
 ### General Principles
